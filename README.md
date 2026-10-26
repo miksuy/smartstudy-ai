@@ -4,7 +4,7 @@ Building AI course project
 
 ## Summary
 
-SmartStudy is an AI-powered study assistant that helps students learn more efficiently by generating practice questions, summarizing study materials, and identifying topics that need more attention. It aims to make studying more personalized and help students use their time effectively. ![image of a cat](Sleeping_cat_on_her_back.jpg)
+SmartStudy is an AI-powered study assistant that helps students learn more efficiently by generating practice questions, summarizing study materials, and identifying topics that need more attention. It aims to make studying more personalized and help students use their time effectively. ![image of a cat](/Sleeping_cat_on_her_back.jpg)
 
 ## Background
 
