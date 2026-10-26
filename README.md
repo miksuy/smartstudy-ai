@@ -1,6 +1,6 @@
 # SmartStudy – An AI-Powered Study Assistant
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
